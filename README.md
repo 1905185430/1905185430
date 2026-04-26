@@ -43,10 +43,6 @@ I'm a third-year undergraduate student at **Huazhong University of Science and T
 
 ## 🛠️ Skills & Tools
 
-
-
-## 🛠️ Skills & Tools
-
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logo=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logo=white)
