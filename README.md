@@ -6,30 +6,31 @@
 [![GitHub stars](https://img.shields.io/github/stars/1905185430?style=social)](https://github.com/1905185430)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=1905185430.1905185430)](https://github.com/1905185430)
 
-
 ## 🎥 Project Demonstrations
 
 ### 🎬 pi0.5 Model: Grasping Red Cube
 ![pi0.5模型夹取红色方块](https://raw.githubusercontent.com/1905185430/1905185430/main/videos/pi0.5-red-cube-preview.gif)
-**Project**: pi0.5 Model Grasping Demonstration  
-**Technology**: pi0.5 + SO-101 Robot Arm  
-**Task**: Robot grasping red cube  
-**Result**: Successfully completed grasping task  
+
+**Project**: pi0.5 Model Grasping Demonstration
+**Technology**: pi0.5 + SO-101 Robot Arm
+**Task**: Robot grasping red cube
+**Result**: Successfully completed grasping task
 **Code**: [so101](https://github.com/1905185430/so101)
 
 ### 🎬 pi0.5 Model: Grasping Red Cube to Green Cube
 ![pi0.5模型夹取红色方块到绿色方块上方](https://raw.githubusercontent.com/1905185430/1905185430/main/videos/pi0.5-red-to-green-preview.gif)
-**Project**: pi0.5 Model Grasping and Placement  
-**Technology**: pi0.5 + SO-101 Robot Arm  
-**Task**: Robot grasping red cube and placing it above green cube  
-**Result**: Successfully completed grasping and placement task  
+
+**Project**: pi0.5 Model Grasping and Placement
+**Technology**: pi0.5 + SO-101 Robot Arm
+**Task**: Robot grasping red cube and placing it above green cube
+**Result**: Successfully completed grasping and placement task
 **Code**: [so101](https://github.com/1905185430/so101)
 
 ## 🎓 Education Background
 
-**Huazhong University of Science and Technology (HUST)**  
-*School of Electronic Information and Communications*  
-*Bachelor of Engineering in Electronic Information Engineering*  
+**Huazhong University of Science and Technology (HUST)**
+*School of Electronic Information and Communications*
+*Bachelor of Engineering in Electronic Information Engineering*
 *2023.09 - 2027.06 (Expected)*
 
 - **GPA**: 84.2/100 | **Ranking**: Top 30%
@@ -103,29 +104,29 @@ Participated in the teaching research project "Robot System for Integrated Indus
 ### 🤖 SO-101 Robot Arm System
 Comprehensive system for SO-101 dual-arm robot control, data collection, and model deployment.
 
-**Technologies:** Python, LeRobot, PyTorch, OpenCV  
-**Status:** 🚀 Active Development  
+**Technologies:** Python, LeRobot, PyTorch, OpenCV
+**Status:** 🚀 Active Development
 **GitHub:** [so101](https://github.com/1905185430/so101)
 
 ### 🎯 VLA Model Fine-tuning Pipeline
 Tools and pipelines for fine-tuning Vision-Language-Action models.
 
-**Technologies:** Python, LeRobot, PyTorch, Transformers  
-**Status:** 🚀 Active Development  
+**Technologies:** Python, LeRobot, PyTorch, Transformers
+**Status:** 🚀 Active Development
 **GitHub:** [vla-finetune](https://github.com/1905185430/vla-finetune)
 
 ### 📊 LeRobot Dataset & Documentation
 Comprehensive documentation and tools for the LeRobot framework.
 
-**Technologies:** Python, LeRobot, Markdown, Git  
-**Status:** ✅ Completed  
+**Technologies:** Python, LeRobot, Markdown, Git
+**Status:** ✅ Completed
 **GitHub:** [lerobot_workdocs](https://github.com/1905185430/lerobot_workdocs)
 
 ### 🖥️ Custom Linux System
 Building a minimal Linux system from scratch with custom kernel and initrd.
 
-**Technologies:** Linux, Shell Scripting, QEMU  
-**Status:** ✅ Completed  
+**Technologies:** Linux, Shell Scripting, QEMU
+**Status:** ✅ Completed
 **GitHub:** [custom-linux-system](https://github.com/1905185430/custom-linux-system)
 
 ## 🧠 LeRobot Framework Expertise
