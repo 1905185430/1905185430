@@ -10,8 +10,7 @@
 ## 🎥 Project Demonstrations
 
 ### 🎬 pi0.5 Model: Grasping Red Cube
-[🎬 点击播放视频 - pi0.5模型夹取红色方块](https://github.com/1905185430/1905185430/blob/main/videos/pi0.5%E6%A8%A1%E5%9E%8B%E5%A4%B9%E5%8F%96%E7%BA%A2%E8%89%B2%E6%96%B9%E5%9D%97.mov)
-
+[🎬 点击播放视频 - pi0.5模型夹取红色方块](https://github.com/1905185430/1905185430/blob/main/videos/pi0.5-red-cube-compressed.mp4)
 **Project**: pi0.5 Model Grasping Demonstration  
 **Technology**: pi0.5 + SO-101 Robot Arm  
 **Task**: Robot grasping red cube  
@@ -19,8 +18,7 @@
 **Code**: [so101](https://github.com/1905185430/so101)
 
 ### 🎬 pi0.5 Model: Grasping Red Cube to Green Cube
-[🎬 点击播放视频 - pi0.5模型夹取红色方块到绿色方块上方](https://github.com/1905185430/1905185430/blob/main/videos/pi0.5%E6%A8%A1%E5%9E%8B%E5%A4%B9%E5%8F%96%E7%BA%A2%E8%89%B2%E6%96%B9%E5%9D%97%E5%88%B0%E7%BB%BF%E8%89%B2%E6%96%B9%E5%9D%97%E4%B8%8A%E6%96%B9.MOV)
-
+[🎬 点击播放视频 - pi0.5模型夹取红色方块](https://github.com/1905185430/1905185430/blob/main/videos/pi0.5-red-to-green-compressed.mp4)
 **Project**: pi0.5 Model Grasping and Placement  
 **Technology**: pi0.5 + SO-101 Robot Arm  
 **Task**: Robot grasping red cube and placing it above green cube  
