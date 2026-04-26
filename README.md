@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jiaxuan Wang (王嘉璇)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1905185430/1905185430/main/banner.svg" alt="Robotics Engineer Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/1905185430/1905185430/main/banner.png" alt="Robotics Engineer Banner" width="800"/>
 </p>
 
 **Robotics Engineer & Researcher | VLA Models | Robot Learning | Computer Vision**
