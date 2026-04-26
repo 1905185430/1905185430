@@ -6,6 +6,29 @@
 [![GitHub stars](https://img.shields.io/github/stars/1905185430?style=social)](https://github.com/1905185430)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=1905185430.1905185430)](https://github.com/1905185430)
 
+
+## 🎥 Project Demonstrations
+
+### 🎬 pi0.5 Model: Grasping Red Cube
+<video src="https://github.com/1905185430/1905185430/raw/main/videos/pi0.5模型夹取红色方块.mov" width="400" controls></video>
+
+**Project**: pi0.5 Model Grasping Demonstration  
+**Technology**: pi0.5 + SO-101 Robot Arm  
+**Task**: Robot grasping red cube  
+**Result**: Successfully completed grasping task  
+**Code**: [so101](https://github.com/1905185430/so101)
+
+### 🎬 pi0.5 Model: Grasping Red Cube to Green Cube
+<video src="https://github.com/1905185430/1905185430/raw/main/videos/pi0.5模型夹取红色方块到绿色方块上方.MOV" width="400" controls></video>
+
+**Project**: pi0.5 Model Grasping and Placement  
+**Technology**: pi0.5 + SO-101 Robot Arm  
+**Task**: Robot grasping red cube and placing it above green cube  
+**Result**: Successfully completed grasping and placement task  
+**Code**: [so101](https://github.com/1905185430/so101)
+
+
+
 ## 🎓 Education Background
 
 **Huazhong University of Science and Technology (HUST)**  
@@ -78,26 +101,6 @@ Participated in the compilation and construction of "Service Robot Application S
 
 ### 🔬 Teaching Research Project
 Participated in the teaching research project "Robot System for Integrated Industry-Education Graduate Professional Degree Based on Deep Integration" (2025.1-2026.12, Ongoing).
-
-## 🎥 Project Demonstrations
-
-### 🎬 pi0.5 Model: Grasping Red Cube
-<video src="https://github.com/1905185430/1905185430/raw/main/videos/pi0.5模型夹取红色方块.mov" width="400" controls></video>
-
-**Project**: pi0.5 Model Grasping Demonstration  
-**Technology**: pi0.5 + SO-101 Robot Arm  
-**Task**: Robot grasping red cube  
-**Result**: Successfully completed grasping task  
-**Code**: [so101](https://github.com/1905185430/so101)
-
-### 🎬 pi0.5 Model: Grasping Red Cube to Green Cube
-<video src="https://github.com/1905185430/1905185430/raw/main/videos/pi0.5模型夹取红色方块到绿色方块上方.MOV" width="400" controls></video>
-
-**Project**: pi0.5 Model Grasping and Placement  
-**Technology**: pi0.5 + SO-101 Robot Arm  
-**Task**: Robot grasping red cube and placing it above green cube  
-**Result**: Successfully completed grasping and placement task  
-**Code**: [so101](https://github.com/1905185430/so101)
 
 ## 🔥 Featured Projects
 
