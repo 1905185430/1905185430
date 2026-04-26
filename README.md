@@ -64,6 +64,40 @@ Building a minimal Linux system from scratch with custom kernel and initrd.
 **Status:** ✅ Completed  
 **GitHub:** [custom-linux-system](https://github.com/1905185430/custom-linux-system)
 
+## 🎥 Project Demonstrations
+
+### 🎬 VLA Model Reproduction Demo
+<video src="https://github.com/1905185430/1905185430/raw/main/videos/vla-demo.mp4" width="400" controls></video>
+
+**Project**: SO-101 Robot VLA Model Reproduction  
+**Technology**: SmolVLA + LoRA Fine-tuning  
+**Task**: Robot grasping red cube  
+**Result**: Successfully completed grasping task with 85% success rate  
+**Code**: [vla-finetune](https://github.com/1905185430/vla-finetune)
+
+### 📸 GIF Preview
+![VLA Demo GIF](https://raw.githubusercontent.com/1905185430/1905185430/main/videos/vla-demo.gif)
+
+### 📊 More Demo Videos
+<table>
+<tr>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/vla-demo-thumbnail.png" width="100%">
+<br>
+<strong>VLA Grasping Demo</strong>
+<br>
+<a href="https://github.com/1905185430/1905185430/blob/main/videos/vla-demo.mp4">Watch Video</a>
+</td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/teleop-demo-thumbnail.png" width="100%">
+<br>
+<strong>Teleoperation Demo</strong>
+<br>
+<a href="https://github.com/1905185430/1905185430/blob/main/videos/teleop-demo.mp4">Watch Video</a>
+</td>
+</tr>
+</table>
+
 ## 📊 GitHub Stats
 
 ![Jiaxuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=1905185430&show_icons=true&theme=radical)
