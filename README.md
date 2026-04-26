@@ -41,44 +41,7 @@ I'm a third-year undergraduate student at **Huazhong University of Science and T
 **Result**: Successfully completed grasping and placement task  
 **Code**: [so101](https://github.com/1905185430/so101)
 
-
-### 📸 GIF Previews
-![pi0.5 Red Cube GIF](https://raw.githubusercontent.com/1905185430/1905185430/main/videos/pi0.5-red-cube.gif)
-
-### 📊 Video Gallery
-<table>
-<tr>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/pi0.5-red-cube-thumbnail.png" width="100%">
-<br>
-<strong>pi0.5 Grasping Red Cube</strong>
-<br>
-<a href="https://github.com/1905185430/1905185430/blob/main/videos/pi0.5模型夹取红色方块.mov">Watch Video</a>
-</td>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/pi0.5-red-to-green-thumbnail.png" width="100%">
-<br>
-<strong>pi0.5 Grasping to Green Cube</strong>
-<br>
-<a href="https://github.com/1905185430/1905185430/blob/main/videos/pi0.5模型夹取红色方块到绿色方块上方.MOV">Watch Video</a>
-</td>
-</tr>
-</table>
-
-### 📊 More Demo Videos
-<table>
-<tr>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/teleop-demo-thumbnail.png" width="100%">
-<br>
-<strong>Teleoperation Demo</strong>
-<br>
-<a href="https://github.com/1905185430/1905185430/blob/main/videos/teleop-demo.mp4">Watch Video</a>
-</td>
-</tr>
-</table>
-
-
+## 🛠️ Skills & Tools
 
 
 
