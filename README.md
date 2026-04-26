@@ -72,6 +72,11 @@
 ## 🏆 Competitions & Research Projects
 
 ### 🥈 ICRA 2025 Sim2Real Challenge | **International Second Prize (Global 4th Place)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/1905185430/1905185430/main/assets/images/icra2025_certificate.png" alt="ICRA 2025 Certificate" width="600"/>
+</p>
+
 As a core member of Team DianRobot, demonstrated excellent simulation-to-real transfer capabilities and algorithm control in complex continuous object manipulation tasks.
 
 ### 🔬 Intelligent Application Design of Chemical Experiment Robotic Arm Based on Imitation Learning | **Provincial Innovation Project (Ongoing)**
