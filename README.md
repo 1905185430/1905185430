@@ -98,21 +98,7 @@ Building a minimal Linux system from scratch with custom kernel and initrd.
 </tr>
 </table>
 
-## 📊 GitHub Stats
 
-![Jiaxuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=1905185430&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1905185430&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1905185430&theme=radical)
-
-## 📈 GitHub Activity Graph
-
-![Jiaxuan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1905185430&theme=react-dark)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=1905185430&theme=onedark&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📝 Latest Blog Posts
 
