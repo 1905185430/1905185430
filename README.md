@@ -66,6 +66,24 @@ Building a minimal Linux system from scratch with custom kernel and initrd.
 
 ## 🎥 Project Demonstrations
 
+### 🎬 pi0.5 Model: Grasping Red Cube
+<video src="https://github.com/1905185430/1905185430/raw/main/videos/pi0.5模型夹取红色方块.mov" width="400" controls></video>
+
+**Project**: pi0.5 Model Grasping Demonstration  
+**Technology**: pi0.5 + SO-101 Robot Arm  
+**Task**: Robot grasping red cube  
+**Result**: Successfully completed grasping task  
+**Code**: [so101](https://github.com/1905185430/so101)
+
+### 🎬 pi0.5 Model: Grasping Red Cube to Green Cube
+<video src="https://github.com/1905185430/1905185430/raw/main/videos/pi0.5模型夹取红色方块到绿色方块上方.MOV" width="400" controls></video>
+
+**Project**: pi0.5 Model Grasping and Placement  
+**Technology**: pi0.5 + SO-101 Robot Arm  
+**Task**: Robot grasping red cube and placing it above green cube  
+**Result**: Successfully completed grasping and placement task  
+**Code**: [so101](https://github.com/1905185430/so101)
+
 ### 🎬 VLA Model Reproduction Demo
 <video src="https://github.com/1905185430/1905185430/raw/main/videos/vla-demo.mp4" width="400" controls></video>
 
@@ -75,8 +93,36 @@ Building a minimal Linux system from scratch with custom kernel and initrd.
 **Result**: Successfully completed grasping task with 85% success rate  
 **Code**: [vla-finetune](https://github.com/1905185430/vla-finetune)
 
-### 📸 GIF Preview
+### 📸 GIF Previews
+![pi0.5 Red Cube GIF](https://raw.githubusercontent.com/1905185430/1905185430/main/videos/pi0.5-red-cube.gif)
 ![VLA Demo GIF](https://raw.githubusercontent.com/1905185430/1905185430/main/videos/vla-demo.gif)
+
+### 📊 Video Gallery
+<table>
+<tr>
+<td width="33%">
+<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/pi0.5-red-cube-thumbnail.png" width="100%">
+<br>
+<strong>pi0.5 Grasping Red Cube</strong>
+<br>
+<a href="https://github.com/1905185430/1905185430/blob/main/videos/pi0.5模型夹取红色方块.mov">Watch Video</a>
+</td>
+<td width="33%">
+<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/pi0.5-red-to-green-thumbnail.png" width="100%">
+<br>
+<strong>pi0.5 Grasping to Green Cube</strong>
+<br>
+<a href="https://github.com/1905185430/1905185430/blob/main/videos/pi0.5模型夹取红色方块到绿色方块上方.MOV">Watch Video</a>
+</td>
+<td width="33%">
+<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/vla-demo-thumbnail.png" width="100%">
+<br>
+<strong>VLA Model Demo</strong>
+<br>
+<a href="https://github.com/1905185430/1905185430/blob/main/videos/vla-demo.mp4">Watch Video</a>
+</td>
+</tr>
+</table>
 
 ### 📊 More Demo Videos
 <table>
