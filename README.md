@@ -104,40 +104,19 @@ Participated in the teaching research project "Robot System for Integrated Indus
 
 ## 🔥 Featured Projects
 
-### 🧠 LeRobot Framework Reproduction & Extensions
-All my current projects are built on the **LeRobot framework** by HuggingFace. I specialize in reproducing, extending, and deploying LeRobot-based robot learning systems.
-
-**Core Focus Areas:**
-- 🎯 **Data Collection**: Standardized dataset collection using LeRobot format
-- 🧠 **Policy Training**: Training robot policies with ACT, SmolVLA, and other algorithms
-- 🚀 **Real-world Deployment**: Deploying trained policies on physical robots
-- 🔧 **Tool Development**: Creating utilities and extensions for LeRobot ecosystem
-
 ### 🤖 SO-101 Robot Arm System
-A comprehensive system for SO-101 dual-arm robot control, data collection, and model deployment, **built entirely on LeRobot**.
+Comprehensive system for SO-101 dual-arm robot control, data collection, and model deployment.
 
 **Technologies:** Python, LeRobot, PyTorch, OpenCV  
 **Status:** 🚀 Active Development  
 **GitHub:** [so101](https://github.com/1905185430/so101)
 
-**LeRobot Integration:**
-- Uses LeRobot's standardized dataset format
-- Implements LeRobot's policy training pipeline
-- Supports LeRobot's model deployment utilities
-- Compatible with LeRobot's visualization tools
-
 ### 🎯 VLA Model Fine-tuning Pipeline
-Tools and pipelines for fine-tuning Vision-Language-Action models, **integrated with LeRobot**.
+Tools and pipelines for fine-tuning Vision-Language-Action models.
 
 **Technologies:** Python, LeRobot, PyTorch, Transformers  
 **Status:** 🚀 Active Development  
 **GitHub:** [vla-finetune](https://github.com/1905185430/vla-finetune)
-
-**LeRobot Integration:**
-- Extends LeRobot's training infrastructure
-- Adds VLA model support to LeRobot
-- Implements LoRA fine-tuning for LeRobot models
-- Provides evaluation tools for LeRobot-trained policies
 
 ### 📊 LeRobot Dataset & Documentation
 Comprehensive documentation and tools for the LeRobot framework.
@@ -145,12 +124,6 @@ Comprehensive documentation and tools for the LeRobot framework.
 **Technologies:** Python, LeRobot, Markdown, Git  
 **Status:** ✅ Completed  
 **GitHub:** [lerobot_workdocs](https://github.com/1905185430/lerobot_workdocs)
-
-**LeRobot Contributions:**
-- Detailed documentation for LeRobot framework
-- Troubleshooting guides and best practices
-- Example scripts and tutorials
-- Performance optimization tips
 
 ### 🖥️ Custom Linux System
 Building a minimal Linux system from scratch with custom kernel and initrd.
@@ -161,77 +134,22 @@ Building a minimal Linux system from scratch with custom kernel and initrd.
 
 ## 🧠 LeRobot Framework Expertise
 
-I have extensive experience with the **LeRobot framework** and its ecosystem. Here's a detailed breakdown of my LeRobot expertise:
+I have extensive experience with the **LeRobot framework** for robot learning. My expertise includes:
 
-### 🎯 Core LeRobot Components
-```mermaid
-graph TD
-    A[LeRobot Framework] --> B[Dataset Tools]
-    A --> C[Policy Training]
-    A --> D[Model Deployment]
-    A --> E[Visualization]
-    
-    B --> B1[Data Collection]
-    B --> B2[Dataset Format]
-    B --> B3[Data Augmentation]
-    
-    C --> C1[ACT Policy]
-    C --> C2[SmolVLA]
-    C --> C3[Diffusion Policy]
-    
-    D --> D1[Real-time Inference]
-    D --> D2[Edge Deployment]
-    D --> D3[Performance Optimization]
-    
-    E --> E1[Training Metrics]
-    E --> E2[Policy Visualization]
-    E --> E3[Dataset Analysis]
+### 🎯 Core Competencies
+- **Data Collection**: 100+ episodes using LeRobot format
+- **Policy Training**: ACT, SmolVLA, Diffusion Policy
+- **Model Deployment**: Real-time inference on physical robots
+- **Tool Development**: Custom utilities and extensions
+
+### 📊 Technical Proficiency
 ```
-
-### 📊 LeRobot Technical Stack
-| Component | My Experience | Tools Used |
-|-----------|---------------|------------|
-| **Data Collection** | 100+ episodes collected | SO-101, Custom scripts |
-| **Dataset Format** | Expert in LeRobot format | Parquet, HDF5, JSON |
-| **Policy Training** | ACT, SmolVLA, Custom | PyTorch, WandB |
-| **Model Deployment** | Real-time inference | CUDA, TensorRT |
-| **Visualization** | Custom dashboards | Matplotlib, Plotly |
-
-### 🔧 LeRobot Projects Deep Dive
-
-#### 1. SO-101 Data Collection System
-- **Standardized Format**: Uses LeRobot's dataset structure
-- **Multi-modal Data**: RGB images, joint angles, actions
-- **Quality Control**: Automated data validation
-- **Efficiency**: 10x faster than manual collection
-
-#### 2. Policy Training Pipeline
-- **Algorithm Support**: ACT, SmolVLA, Diffusion Policy
-- **Hyperparameter Tuning**: Automated optimization
-- **Distributed Training**: Multi-GPU support
-- **Experiment Tracking**: WandB integration
-
-#### 3. Real-world Deployment
-- **Inference Speed**: 50ms per action
-- **Memory Optimization**: 2GB GPU memory
-- **Success Rate**: 70-85% on complex tasks
-- **Edge Support**: Jetson Orin deployment
-
-### 📈 LeRobot Performance Metrics
+Dataset Collection:     ████████████ 100%
+Policy Training:        ████████░░░░ 80%
+Real-world Deployment:  ████████░░░░ 80%
+Tool Development:       ████████████ 100%
+Documentation:          ████████████ 100%
 ```
-Dataset Collection:     ████████████ 100% (100+ episodes)
-Policy Training:        ████████░░░░ 80% (Multiple algorithms)
-Real-world Deployment:  ████████░░░░ 80% (High success rate)
-Tool Development:       ████████████ 100% (Custom utilities)
-Documentation:          ████████████ 100% (Comprehensive guides)
-```
-
-### 🎓 LeRobot Learning Resources I Created
-- **Beginner Guide**: Step-by-step LeRobot setup
-- **Advanced Tutorial**: Custom policy implementation
-- **Troubleshooting**: Common issues and solutions
-- **Performance Guide**: Optimization techniques
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
