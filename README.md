@@ -197,42 +197,26 @@ Documentation:          ████████████ 100% (Comprehensive
 **Result**: Successfully completed grasping and placement task  
 **Code**: [so101](https://github.com/1905185430/so101)
 
-### 🎬 VLA Model Reproduction Demo
-<video src="https://github.com/1905185430/1905185430/raw/main/videos/vla-demo.mp4" width="400" controls></video>
-
-**Project**: SO-101 Robot VLA Model Reproduction  
-**Technology**: SmolVLA + LoRA Fine-tuning  
-**Task**: Robot grasping red cube  
-**Result**: Successfully completed grasping task with 85% success rate  
-**Code**: [vla-finetune](https://github.com/1905185430/vla-finetune)
 
 ### 📸 GIF Previews
 ![pi0.5 Red Cube GIF](https://raw.githubusercontent.com/1905185430/1905185430/main/videos/pi0.5-red-cube.gif)
-![VLA Demo GIF](https://raw.githubusercontent.com/1905185430/1905185430/main/videos/vla-demo.gif)
 
 ### 📊 Video Gallery
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 <img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/pi0.5-red-cube-thumbnail.png" width="100%">
 <br>
 <strong>pi0.5 Grasping Red Cube</strong>
 <br>
 <a href="https://github.com/1905185430/1905185430/blob/main/videos/pi0.5模型夹取红色方块.mov">Watch Video</a>
 </td>
-<td width="33%">
+<td width="50%">
 <img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/pi0.5-red-to-green-thumbnail.png" width="100%">
 <br>
 <strong>pi0.5 Grasping to Green Cube</strong>
 <br>
 <a href="https://github.com/1905185430/1905185430/blob/main/videos/pi0.5模型夹取红色方块到绿色方块上方.MOV">Watch Video</a>
-</td>
-<td width="33%">
-<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/vla-demo-thumbnail.png" width="100%">
-<br>
-<strong>VLA Model Demo</strong>
-<br>
-<a href="https://github.com/1905185430/1905185430/blob/main/videos/vla-demo.mp4">Watch Video</a>
 </td>
 </tr>
 </table>
@@ -240,13 +224,6 @@ Documentation:          ████████████ 100% (Comprehensive
 ### 📊 More Demo Videos
 <table>
 <tr>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/vla-demo-thumbnail.png" width="100%">
-<br>
-<strong>VLA Grasping Demo</strong>
-<br>
-<a href="https://github.com/1905185430/1905185430/blob/main/videos/vla-demo.mp4">Watch Video</a>
-</td>
 <td width="50%">
 <img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/teleop-demo-thumbnail.png" width="100%">
 <br>
