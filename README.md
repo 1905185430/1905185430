@@ -6,20 +6,78 @@
 [![GitHub stars](https://img.shields.io/github/stars/1905185430?style=social)](https://github.com/1905185430)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=1905185430.1905185430)](https://github.com/1905185430)
 
-## 🚀 About Me
+## 🎓 Education Background
 
-I'm a third-year undergraduate student at **Huazhong University of Science and Technology** and the **Team Leader of Dian Team's Robotics Group**. My passion lies in robotics, artificial intelligence, and computer vision.
+**Huazhong University of Science and Technology (HUST)**  
+*School of Electronic Information and Communications*  
+*Bachelor of Engineering in Electronic Information Engineering*  
+*2023.09 - 2027.06 (Expected)*
 
-**🎯 Current Focus**: All my current projects are built on top of the **LeRobot framework** by HuggingFace. I specialize in robot learning, imitation learning, and Vision-Language-Action (VLA) models using LeRobot as the foundation.
+- **GPA**: 84.2/100 | **Ranking**: Top 30%
+- **Elite Program**: Project-based Information Engineering ("Seed Class")
+- **Core Courses**: Computer Programming (96), Digital Electronics (92), Stochastic Processes (92), Analog Electronics (85), Engineering Drawing (94)
+- **Language**: CET-6 519, CET-4 585
+- **Leadership**: Current Team Leader of Dian Team; Current Leader of Dian Team Robotics Group
+- **Goal**: Direct PhD/PhD admission
 
-- 🔭 I'm currently working on **SO-101 Robot Arm System**, **LeRobot Framework Reproduction**, and **VLA Model Fine-tuning**
-- 🌱 I'm currently learning **Advanced LeRobot Features**, **Vision-Language-Action Models**, and **Real-time Control Systems**
-- 👯 I'm looking to collaborate on **LeRobot-based Projects** and **Robot Learning Research**
-- 💬 Ask me about **LeRobot Framework**, **Robot Learning**, **PyTorch**, **Computer Vision**, and **Robot Control**
-- 📫 How to reach me: **u202314318@hust.edu.cn** or **1905185430@qq.com**
-- ⚡ Fun fact: I can train robot policies with just a few lines of LeRobot code! 🤖
+## 📚 Publications & Academic Conferences
 
+### Conference Papers
+1. **Yefan Lin, Jiaxuan Wang, Baoyu Liu, Zheng Lv, and Xiaojun Hei**, "Pallet-ACT: A Unified Data-Training-Inference Framework for Industrial Robotic Palletizing." *7th Information Communication Technologies Conference (ICTC)*, Nanjing, China, May 2026. (Initial review passed)
 
+2. **Yuhan Huang, Zijian Ning, Ziyuan Wang, Jiaxuan Wang, Xiaojun Hei**, "Reinforcement Learning with Stage-Wise Model Fusion for Sequential Object Manipulation Tasks." *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Chengdu, China, December 2025.
+
+## 🛠️ Skills & Tools
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logo=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logo=white)
+
+### Robot Control & Real-world Implementation
+- **6-Axis Robot Arms**: Extensive hands-on experience with debugging, deployment, and real-world operation
+- **ROS2**: Proficient in ROS2 robot operating system and MoveIt 2 motion planning framework
+- **AI Algorithms**: Expert in applying Reinforcement Learning (RL) and Imitation Learning (IL) for robot control
+
+### Simulation & 3D Modeling
+- **MuJoCo**: Proficient in physical simulation and testing for robotics
+- **SolidWorks**: Expert in 3D modeling and product structure design with extensive 3D printing experience
+
+### Development Environment & Tools
+- **Operating Systems**: Linux environment proficiency
+- **IDEs**: VSCode and other mainstream development environments
+- **Tools**: VMware, Anaconda for development and environment management
+- **AI Tools**: Skilled in using modern AI tools for programming, documentation, and research
+
+## 🏆 Competitions & Research Projects
+
+### 🥈 ICRA 2025 Sim2Real Challenge | **International Second Prize (Global 4th Place)**
+As a core member of Team DianRobot, demonstrated excellent simulation-to-real transfer capabilities and algorithm control in complex continuous object manipulation tasks.
+
+### 🔬 Intelligent Application Design of Chemical Experiment Robotic Arm Based on Imitation Learning | **Provincial Innovation Project (Ongoing)**
+As the project core backbone and leader, deeply participated in the entire project progress, responsible for precise grasping of chemical experimental equipment by robotic arms. (Supervisor: Xiaojun Hei)
+
+### 🥉 Reinforcement Learning Empowers Robot Coffee Service Application Design | **Regional Competition Second Prize (2024)**
+Solved the joint zero-drift problem during coffee cup grasping through visual compensation, implemented finger positioning and grasping success determination using bounding box solutions.
+
+### 🤖 Reinforcement Learning-based Robot Coffee Making | **Industry Collaboration Project (Completed)**
+Participated in the horizontal project of CloudMinds Technology Co., Ltd., involved in robot coffee service design and system R&D, completed the construction of coffee-making demonstration process.
+
+### 🎭 Dian Team Reception Robot Application Design | **University Innovation Project (Excellent Completion)**
+Participated in the full-process application design of reception robots, dance action design and choreography. (Supervisors: Xiaojun Hei/Chengwei Zhang)
+
+### 🧪 Embedded System Course Design: Smart Heating Coaster | **Core Developer (2025.09-2026.03)**
+Participated in overall software and hardware development of smart heating coaster, led shell and structure design; proficiently used SolidWorks and other tools for shell development.
+
+## 📖 Other Teaching & Engineering Project Experience
+
+### 🎓 Core Course Construction Project
+Participated in the construction of "Service Robot Application Design" course for Excellent Engineer Training (2026.1-2027.12, Ongoing).
+
+### 📚 Textbook Construction Project
+Participated in the compilation and construction of "Service Robot Application System Design and Experiment" textbook for Excellent Engineer Training (2026.1-2027.12, Ongoing).
+
+### 🔬 Teaching Research Project
+Participated in the teaching research project "Robot System for Integrated Industry-Education Graduate Professional Degree Based on Deep Integration" (2025.1-2026.12, Ongoing).
 
 ## 🎥 Project Demonstrations
 
@@ -40,34 +98,6 @@ I'm a third-year undergraduate student at **Huazhong University of Science and T
 **Task**: Robot grasping red cube and placing it above green cube  
 **Result**: Successfully completed grasping and placement task  
 **Code**: [so101](https://github.com/1905185430/so101)
-
-## 🛠️ Skills & Tools
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logo=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logo=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logo=white)
-
-### LeRobot & Robot Learning
-![LeRobot](https://img.shields.io/badge/LeRobot-FF6B00?style=for-the-badge&logo=huggingface&logo=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logo=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logo=black)
-
-### Computer Vision & AI
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logo=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logo=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logo=white)
-
-### Robotics & Control
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logo=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-FF6B00?style=for-the-badge&logo=robot&logo=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=for-the-badge&logo=nvidia&logo=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logo=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logo=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logo=black)
-![WandB](https://img.shields.io/badge/WandB-FFBE00?style=for-the-badge&logo=weightsandbiases&logo=black)
 
 ## 🔥 Featured Projects
 
@@ -230,19 +260,14 @@ graph TD
 ## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logo=white)](https://github.com/1905185430)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logo=white)](mailto:u202314318@hust.edu.cn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logo=white)](mailto:wangjx_hust@hust.edu.cn)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logo=white)](https://1905185430.github.io)
 
-## 📚 Publications & Achievements
-
-- 🎓 **ICTC Conference**: Paper on "Intelligent Application Design of Chemical Experiment Robotic Arm Based on Imitation Learning"
-- 🎓 **ROBIO Conference**: Paper submitted (CCF-C)
-- 🏆 **Dian Team Outstanding Member**: 2025
-- 🏆 **Academic Excellence Award**: 2024
-
-## 🎵 Coding Playlist
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31d4j5d5d5d5d5d5d5d5d5d5d5d5d5d5d5&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=0)](https://spotify-github-profile.kittinanx.com/api/view?uid=31d4j5d5d5d5d5d5d5d5d5d5d5d5d5d5d5&redirect=true)
+**Contact Information:**
+- **Phone**: 18879965616
+- **Email**: wangjx_hust@hust.edu.cn
+- **GitHub**: [github.com/1905185430](https://github.com/1905185430)
+- **Website**: [1905185430.github.io](https://1905185430.github.io)
 
 ## 📈 Visitor Count
 
