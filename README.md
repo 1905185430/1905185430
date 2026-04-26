@@ -19,6 +19,69 @@ I'm a third-year undergraduate student at **Huazhong University of Science and T
 - 📫 How to reach me: **u202314318@hust.edu.cn** or **1905185430@qq.com**
 - ⚡ Fun fact: I can train robot policies with just a few lines of LeRobot code! 🤖
 
+
+
+## 🎥 Project Demonstrations
+
+### 🎬 pi0.5 Model: Grasping Red Cube
+<video src="https://github.com/1905185430/1905185430/raw/main/videos/pi0.5模型夹取红色方块.mov" width="400" controls></video>
+
+**Project**: pi0.5 Model Grasping Demonstration  
+**Technology**: pi0.5 + SO-101 Robot Arm  
+**Task**: Robot grasping red cube  
+**Result**: Successfully completed grasping task  
+**Code**: [so101](https://github.com/1905185430/so101)
+
+### 🎬 pi0.5 Model: Grasping Red Cube to Green Cube
+<video src="https://github.com/1905185430/1905185430/raw/main/videos/pi0.5模型夹取红色方块到绿色方块上方.MOV" width="400" controls></video>
+
+**Project**: pi0.5 Model Grasping and Placement  
+**Technology**: pi0.5 + SO-101 Robot Arm  
+**Task**: Robot grasping red cube and placing it above green cube  
+**Result**: Successfully completed grasping and placement task  
+**Code**: [so101](https://github.com/1905185430/so101)
+
+
+### 📸 GIF Previews
+![pi0.5 Red Cube GIF](https://raw.githubusercontent.com/1905185430/1905185430/main/videos/pi0.5-red-cube.gif)
+
+### 📊 Video Gallery
+<table>
+<tr>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/pi0.5-red-cube-thumbnail.png" width="100%">
+<br>
+<strong>pi0.5 Grasping Red Cube</strong>
+<br>
+<a href="https://github.com/1905185430/1905185430/blob/main/videos/pi0.5模型夹取红色方块.mov">Watch Video</a>
+</td>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/pi0.5-red-to-green-thumbnail.png" width="100%">
+<br>
+<strong>pi0.5 Grasping to Green Cube</strong>
+<br>
+<a href="https://github.com/1905185430/1905185430/blob/main/videos/pi0.5模型夹取红色方块到绿色方块上方.MOV">Watch Video</a>
+</td>
+</tr>
+</table>
+
+### 📊 More Demo Videos
+<table>
+<tr>
+<td width="50%">
+<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/teleop-demo-thumbnail.png" width="100%">
+<br>
+<strong>Teleoperation Demo</strong>
+<br>
+<a href="https://github.com/1905185430/1905185430/blob/main/videos/teleop-demo.mp4">Watch Video</a>
+</td>
+</tr>
+</table>
+
+
+
+
+
 ## 🛠️ Skills & Tools
 
 ### Programming Languages
@@ -176,65 +239,6 @@ Documentation:          ████████████ 100% (Comprehensive
 - **Advanced Tutorial**: Custom policy implementation
 - **Troubleshooting**: Common issues and solutions
 - **Performance Guide**: Optimization techniques
-
-## 🎥 Project Demonstrations
-
-### 🎬 pi0.5 Model: Grasping Red Cube
-<video src="https://github.com/1905185430/1905185430/raw/main/videos/pi0.5模型夹取红色方块.mov" width="400" controls></video>
-
-**Project**: pi0.5 Model Grasping Demonstration  
-**Technology**: pi0.5 + SO-101 Robot Arm  
-**Task**: Robot grasping red cube  
-**Result**: Successfully completed grasping task  
-**Code**: [so101](https://github.com/1905185430/so101)
-
-### 🎬 pi0.5 Model: Grasping Red Cube to Green Cube
-<video src="https://github.com/1905185430/1905185430/raw/main/videos/pi0.5模型夹取红色方块到绿色方块上方.MOV" width="400" controls></video>
-
-**Project**: pi0.5 Model Grasping and Placement  
-**Technology**: pi0.5 + SO-101 Robot Arm  
-**Task**: Robot grasping red cube and placing it above green cube  
-**Result**: Successfully completed grasping and placement task  
-**Code**: [so101](https://github.com/1905185430/so101)
-
-
-### 📸 GIF Previews
-![pi0.5 Red Cube GIF](https://raw.githubusercontent.com/1905185430/1905185430/main/videos/pi0.5-red-cube.gif)
-
-### 📊 Video Gallery
-<table>
-<tr>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/pi0.5-red-cube-thumbnail.png" width="100%">
-<br>
-<strong>pi0.5 Grasping Red Cube</strong>
-<br>
-<a href="https://github.com/1905185430/1905185430/blob/main/videos/pi0.5模型夹取红色方块.mov">Watch Video</a>
-</td>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/pi0.5-red-to-green-thumbnail.png" width="100%">
-<br>
-<strong>pi0.5 Grasping to Green Cube</strong>
-<br>
-<a href="https://github.com/1905185430/1905185430/blob/main/videos/pi0.5模型夹取红色方块到绿色方块上方.MOV">Watch Video</a>
-</td>
-</tr>
-</table>
-
-### 📊 More Demo Videos
-<table>
-<tr>
-<td width="50%">
-<img src="https://raw.githubusercontent.com/1905185430/1905185430/main/thumbnails/teleop-demo-thumbnail.png" width="100%">
-<br>
-<strong>Teleoperation Demo</strong>
-<br>
-<a href="https://github.com/1905185430/1905185430/blob/main/videos/teleop-demo.mp4">Watch Video</a>
-</td>
-</tr>
-</table>
-
-
 
 ## 📝 Latest Blog Posts
 
