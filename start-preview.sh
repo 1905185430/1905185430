@@ -1,0 +1,23 @@
+#!/bin/bash
+# 本地预览启动脚本
+
+echo "🚀 启动GitHub个人资料README本地预览"
+echo "======================================"
+echo ""
+echo "📍 文件位置: ~/1905185430/preview.html"
+echo ""
+echo "🔧 使用方法:"
+echo "1. 在浏览器中打开HTML文件"
+echo "2. 或者使用以下命令:"
+echo ""
+echo "   # 使用Firefox浏览器"
+echo "   firefox ~/1905185430/preview.html"
+echo ""
+echo "   # 使用Chrome浏览器"
+echo "   google-chrome ~/1905185430/preview.html"
+echo ""
+echo "   # 使用系统默认浏览器"
+echo "   xdg-open ~/1905185430/preview.html"
+echo ""
+echo "✅ 现在可以在本地预览视频了!"
+echo "======================================"
